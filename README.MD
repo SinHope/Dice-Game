@@ -1,1 +1,1 @@
-*DICEGAME
+# dicegame
